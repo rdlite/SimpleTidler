@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac53d2367b32e584eaedbc04fe07242a, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  PlayerTowerDefaultRadius: 1
+  PlayerDefaultShootSpeed: 1
+  PlayerDefaultHealth: 100
+  PlayerHealPower: 1
+  DefaultSpawnRate: 2
+  MinSpawnRate: 0.2
+  TimeToMinSpawnRate: 240
+  SpawnDistance: 3
+  PrefabsContainer: {fileID: 11400000, guid: 7d7626062905b854a9455d2f8516bd61, type: 2}
+  Upgrades:
+  - {fileID: 11400000, guid: 0c370e12784c35d448c0c821976390e6, type: 2}
+  - {fileID: 11400000, guid: 3d5d8e1a52181ad49942a560debd42f6, type: 2}
+  - {fileID: 11400000, guid: 9b4b1e08fd99992499a0d6daebf6168b, type: 2}

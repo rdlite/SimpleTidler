@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd21b3d63ec9971429d8be7110fd6ca6, type: 3}
+  m_Name: Prefabs container
+  m_EditorClassIdentifier: 
+  PlayerTower: {fileID: 43895665432362692, guid: 017358c9f581c7044a7d2611b31dd43c, type: 3}
+  Enemeis:
+  - {fileID: 7226646389863207132, guid: 6bf50c1a65bd67749a7d48bd394274cb, type: 3}
+  - {fileID: 1017019643049289962, guid: a1edb7fdf09cc41438c59edf75a499b0, type: 3}
+  DefaultPlayerBullet: {fileID: 7649825152717356804, guid: b510a16c06a103d48962e17eec7fd5fe, type: 3}
+  EnemyDeathFX: {fileID: 9122575544554512809, guid: b6aba74a25549b84cb7a255e8cfded77, type: 3}
+  PlayerDeathFX: {fileID: 4194974419802499863, guid: ea27c34783e35344f9f172f02723094f, type: 3}
+  MoneyPopup: {fileID: 4640388791322427828, guid: f82dafbbe6355da40a56ba18189cc6a8, type: 3}
